@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack em Formação | Front-End**
 
-Me chamo Bruno Henrique Jableski, tenho 20 anos e sou natural de Santa Catarina. Concluí o ensino médio no Colégio SESI - PR. Atualmente, estou cursando Engenharia de Software na Unicesumar. Estou em fase de formação na área de desenvolvimento web e backend, com foco em **Front-End**, estudando e aplicando na prática tecnologias como **HTML, CSS, JavaScript e React**. 
+Me chamo Bruno Henrique Jableski, tenho 20 anos e sou natural de Santa Catarina. Concluí o ensino médio no Colégio SESI - PR. Atualmente, estou cursando Engenharia de Software na Unicesumar. Estou em fase de formação na área de desenvolvimento web e backend, com foco em **Front-End**, estudando e aplicando na prática tecnologias como **HTML, CSS, JavaScript, TypeScript & React**. 
  
 
 ---
@@ -32,6 +32,15 @@ Me chamo Bruno Henrique Jableski, tenho 20 anos e sou natural de Santa Catarina.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
